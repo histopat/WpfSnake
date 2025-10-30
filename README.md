@@ -22,3 +22,4 @@ WPF snake game with a modern and stylish interface
 - .NET 9.0 Desktop Runtime (for running)
 - Visual Studio 2022 / .NET 9.0 SDK (for compiling)
 ## Screenshot
+<img width="550" height="614" alt="wpfsnake" src="https://github.com/user-attachments/assets/bed03e6f-1ab1-48d7-bc6b-dab6e7cd2a93" />
